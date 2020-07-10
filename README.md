@@ -4,7 +4,7 @@
 </div>
 
 ## Hello World </David Elias> 👨🏾‍💻
-### Com o codenome de CenourinhaBR( E sim eu gosto de Cenoura 😄)
+### Com o codenome de CenourinhaBR
 
 
 
