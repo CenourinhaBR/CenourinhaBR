@@ -12,14 +12,19 @@ Bem entrei para esse mundo de muito código e café, simplesmente por um único 
 <br>
 Então chega de mais conversas que tal me conhecer melhor?
 
+
+
 ⚡ Java Script 
 ⚡ SQL
 ⚡ React 
 
+
+
 **Meus Contatos**
 <br>
 <br>
-ℹ️ Linkdin: <https://www.linkedin.com/in/david-elias-santos/>
+
+[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-elias-santos)
 
 
 
