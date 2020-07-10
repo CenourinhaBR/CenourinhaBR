@@ -25,6 +25,7 @@ Então chega de mais conversas que tal me conhecer melhor?
 <br>
 
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-elias-santos)
+[![forthebadge](https://img.shields.io/badge/PROFILE-Shawee-red?style=for-the-badge&logo=shawee)](https://app.shawee.io/@davidelias)
 
 
 
